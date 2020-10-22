@@ -1,3 +1,4 @@
+print("PLZ ENTER YOUR PASSWORD DOWN YOU HAVE ONE CHANCE ONLY")
 a = input("enter password:")
 print("checking")
 if a=="POMBEY":
